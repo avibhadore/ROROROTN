@@ -1,25 +1,7 @@
 {
-  "triumph:advancements/magick/leyoftheland/leyoftheland": {
-    "criteria": {
-      "location": "2022-07-17 20:26:52 -0400"
-    },
-    "done": true
-  },
   "triumph:advancements/magick/wandlore/wandlore": {
     "criteria": {
       "location": "2022-07-17 20:26:52 -0400"
-    },
-    "done": true
-  },
-  "triumph:advancements/progression/guidebook/death": {
-    "criteria": {
-      "Death": "2022-07-17 20:40:44 -0400"
-    },
-    "done": true
-  },
-  "triumph:advancements/storage/chest": {
-    "criteria": {
-      "Craft Chest": "2022-07-17 21:31:33 -0400"
     },
     "done": true
   },
@@ -35,17 +17,18 @@
     },
     "done": true
   },
-  "triumph:advancements/magick/sygaldry/sygaldry": {
+  "triumph:advancements/bosskills/killcyclops": {
     "criteria": {
-      "location": "2022-07-17 20:26:52 -0400"
+      "cyclops": "2022-07-18 18:58:29 -0400"
     },
     "done": true
   },
-  "triumph:advancements/ores/coal": {
+  "triumph:advancements/setbonuses/column0/gladiator": {
     "criteria": {
-      "Lapis": "2022-07-17 21:08:04 -0400"
+      "Bronze Helmet": "2022-07-18 21:17:55 -0400",
+      "Bronze Chestplate": "2022-07-18 21:25:33 -0400"
     },
-    "done": true
+    "done": false
   },
   "toroquest:base": {
     "criteria": {
@@ -71,25 +54,25 @@
     },
     "done": true
   },
+  "triumph:advancements/ores/bronze": {
+    "criteria": {
+      "Bronze": "2022-07-18 21:17:38 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/boots": {
+    "criteria": {
+      "Iron boots": "2022-07-18 20:52:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/magicite": {
+    "criteria": {
+      "Magicite Harvest": "2022-07-18 21:07:08 -0400"
+    },
+    "done": true
+  },
   "triumph:advancements/progression/root": {
-    "criteria": {
-      "location": "2022-07-17 20:26:52 -0400"
-    },
-    "done": true
-  },
-  "triumph:advancements/setbonuses/column0/ferrousgiant/ferrousgiant": {
-    "criteria": {
-      "Iron/Steel Chestplate": "2022-07-17 20:51:27 -0400"
-    },
-    "done": false
-  },
-  "triumph:advancements/ores/iron": {
-    "criteria": {
-      "Iron ore": "2022-07-17 21:21:00 -0400"
-    },
-    "done": true
-  },
-  "triumph:advancements/magick/incantation/incantation": {
     "criteria": {
       "location": "2022-07-17 20:26:52 -0400"
     },
@@ -101,23 +84,23 @@
     },
     "done": true
   },
-  "triumph:advancements/magick/warding/warding": {
+  "triumph:advancements/bosskills/legendaryconqueror": {
     "criteria": {
-      "location": "2022-07-17 20:26:52 -0400"
+      "cyclops": "2022-07-18 18:58:29 -0400"
     },
-    "done": true
-  },
-  "triumph:advancements/setbonuses/column0/ferrousgiant/chestplate": {
-    "criteria": {
-      "Iron Chestplate": "2022-07-17 20:51:27 -0400"
-    },
-    "done": true
+    "done": false
   },
   "triumph:advancements/magick/talismancy/talismancy": {
     "criteria": {
       "location": "2022-07-17 20:26:52 -0400"
     },
     "done": true
+  },
+  "triumph:advancements/basedefense/dungarees": {
+    "criteria": {
+      "Boots": "2022-07-18 20:52:34 -0400"
+    },
+    "done": false
   },
   "triumph:advancements/magick/leyoftheland/umbral": {
     "criteria": {
@@ -142,5 +125,129 @@
       "Slayer\u0027s Tattered Journal": "2022-07-17 21:21:09 -0400"
     },
     "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/leyoftheland": {
+    "criteria": {
+      "location": "2022-07-17 20:26:52 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/leggings": {
+    "criteria": {
+      "Iron Leggings": "2022-07-18 19:43:05 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/death": {
+    "criteria": {
+      "Death": "2022-07-17 20:40:44 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/chest": {
+    "criteria": {
+      "Craft Chest": "2022-07-17 21:31:33 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/visspeck": {
+    "criteria": {
+      "Vis Speck": "2022-07-18 21:07:42 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/sygaldry": {
+    "criteria": {
+      "location": "2022-07-17 20:26:52 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/coal": {
+    "criteria": {
+      "Lapis": "2022-07-17 21:08:04 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/curse": {
+    "criteria": {
+      "Curse12": "2022-07-18 19:58:27 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/dungarees_boots": {
+    "criteria": {
+      "Iron boots": "2022-07-18 20:52:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/ferrousgiant": {
+    "criteria": {
+      "Iron/Steel Chestplate": "2022-07-17 20:51:27 -0400",
+      "Iron/Steel Leggings": "2022-07-18 19:43:05 -0400",
+      "Iron/Steel Boots": "2022-07-18 20:52:34 -0400"
+    },
+    "done": false
+  },
+  "triumph:advancements/setbonuses/column0/powerfulpunches": {
+    "criteria": {
+      "Bronze Chesplate": "2022-07-18 21:25:33 -0400",
+      "Bronze Helmet": "2022-07-18 21:17:55 -0400"
+    },
+    "done": false
+  },
+  "triumph:advancements/ores/iron": {
+    "criteria": {
+      "Iron ore": "2022-07-17 21:21:00 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/bronzearmor": {
+    "criteria": {
+      "Bronze Chesplate": "2022-07-18 21:25:33 -0400",
+      "Bronze Helmet": "2022-07-18 21:17:55 -0400"
+    },
+    "done": false
+  },
+  "triumph:advancements/magick/incantation/incantation": {
+    "criteria": {
+      "location": "2022-07-17 20:26:52 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/warding/warding": {
+    "criteria": {
+      "location": "2022-07-17 20:26:52 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/herblore": {
+    "criteria": {
+      "Herb": "2022-07-18 18:39:37 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/scroll_newlife": {
+    "criteria": {
+      "Newlife Scroll": "2022-07-18 18:27:26 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/silver": {
+    "criteria": {
+      "Silver ore": "2022-07-18 21:04:38 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/chestplate": {
+    "criteria": {
+      "Iron Chestplate": "2022-07-17 20:51:27 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/leatherarmor": {
+    "criteria": {
+      "Bronze Axe": "2022-07-18 18:31:12 -0400"
+    },
+    "done": false
   }
 }
